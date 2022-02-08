@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/songuyento/songuyento.iml" filepath="$PROJECT_DIR$/songuyento/songuyento.iml" />
       <module fileurl="file://$PROJECT_DIR$/tinhtienlai/tinhtienlai.iml" filepath="$PROJECT_DIR$/tinhtienlai/tinhtienlai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uocchunglonnhat/uocchunglonnhat.iml" filepath="$PROJECT_DIR$/uocchunglonnhat/uocchunglonnhat.iml" />
       <module fileurl="file://$PROJECT_DIR$/vonglaptrongJava.iml" filepath="$PROJECT_DIR$/vonglaptrongJava.iml" />
     </modules>
   </component>
